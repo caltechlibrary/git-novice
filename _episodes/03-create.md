@@ -14,12 +14,6 @@ keypoints:
 Once Git is configured,
 we can start using it.
 
-We will continue with the story of Wolfman and Dracula who are investigating if it
-is possible to send a planetary lander to Mars. 
-
-![motivatingexample](../fig/motivatingexample.png)
-
-
 First, let's create a directory in `Desktop` folder for our work and then move into that directory:
 
 ~~~
